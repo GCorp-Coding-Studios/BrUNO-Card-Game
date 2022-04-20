@@ -1,0 +1,11 @@
+/* Changes Fonts For The Website Inter Fallback In Index HTML */
+body {
+  background-color: powderblue;
+}
+h1 {
+  font-family: sans-serif;
+}
+p {
+  font-family: sans-serif;
+}
+/* Script 1 Over */
