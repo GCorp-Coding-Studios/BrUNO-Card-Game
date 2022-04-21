@@ -27,6 +27,6 @@ GCorp Code Studios Software
 - Stream Sniping is not and never will be permitted this is supposed to be a wholesome game
 
 # Creators
-PolySheep Codes - BrUNO! Fundamentals and new mechanics
-Mattel - The official UNO! Game Modes
-?????? - Card textures
+- PolySheep Codes - BrUNO! Fundamentals and new mechanics
+- Mattel - The official UNO! Game Modes
+- ?????? - Card textures
